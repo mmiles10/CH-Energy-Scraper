@@ -45,6 +45,8 @@ Run:
 python scrape_swiss_power_plants.py
 ```
 
+Supporting shell utilities are kept in the `scripts/` folder. A local spreadsheet export is stored in `artifacts/`.
+
 ## Notes
 
 This repository is meant for research and analysis. Please respect the source site's terms and rate limits.
